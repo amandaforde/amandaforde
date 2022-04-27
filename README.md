@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/amandaforde/amandaforde/master/andre-braugher-statistics-is-so-beautiful.gif" width="30px">
+<img src="https://raw.githubusercontent.com/amandaforde/amandaforde/master/andre-braugher-statistics-is-so-beautiful.gif">
