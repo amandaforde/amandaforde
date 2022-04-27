@@ -18,9 +18,17 @@ Here are some ideas to get you started:
 #### I'm a second year Genomics Data Science PhD student, working in Galway, Ireland.  
 
 
-- 📫 Reach me on ![LinkedIn](
-https://github.com/amandaforde/amandaforde/blob/10b49e6bc5f0ee97d6d85210a001994a213845b8/linkedin_logo.png) [LinkedIn](https://www.linkedin.com/in/amanda-forde-06b913111/) or at a.forde21@nuigalway.ie. 
+- 📫 Reach me on [![LinkedIn][1.2]][1] or a.forde21@nuigalway.ie. 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/amandaforde/amandaforde/master/andre-braugher-statistics-is-so-beautiful.gif" width="30%">
 </p>
+
+
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/amandaforde/amandaforde/master/linkedin_logo.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/amanda-forde-06b913111/
