@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - :package: Check out my R package [`winnerscurse`](https://amandaforde.github.io/winnerscurse/)!
 - 📫 Reach me on [![LinkedIn][1.2]][1] or a.forde21@nuigalway.ie. 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love a good pint of Guinness after a hard week of work! <img src="https://raw.githubusercontent.com/amandaforde/amandaforde/master/guinness-pint.webp" width="3%">
+- ⚡ Fun fact: I love a good pint of Guinness after a hard week of work! <img src="https://raw.githubusercontent.com/amandaforde/amandaforde/master/guinness-pint.jpg" width="3%">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/amandaforde/amandaforde/master/andre-braugher-statistics-is-so-beautiful.gif" width="30%">
