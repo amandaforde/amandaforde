@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the development of novel statistical techniques that can be used in genetic association studies and Mendelian Randomization analyses.  
 - :package: Check out my R package [`winnerscurse`](https://amandaforde.github.io/winnerscurse/)!
 - 📫 Reach me on [![LinkedIn][1.2]][1] or a.forde21@nuigalway.ie. 
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love a good pint of Guinness after a hard week of work! <img src="https://raw.githubusercontent.com/amandaforde/amandaforde/master/guinness-pint.png" width="1.25%">
 
 <p align="center">
