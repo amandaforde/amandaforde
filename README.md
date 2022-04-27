@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="tenor-gif-embed" data-postid="8718500" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/andre-braugher-statistics-is-so-beautiful-b99-holt-statistics-gif-8718500">Andre Braugher Statistics Is So Beautiful GIF</a>from <a href="https://tenor.com/search/andre+braugher-gifs">Andre Braugher GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://raw.githubusercontent.com/amandaforde/amandaforde/master/andre-braugher-statistics-is-so-beautiful.gif" width="30px">
