@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### I'm a second year Genomics Data Science PhD student, working in Galway, Ireland.  
 
 - 🔭 I’m currently working on the development of novel statistical techniques that can be used in genetic association studies and Mendelian Randomization analyses.  
-- :package: Check out my R package ['winnerscurse'](https://amandaforde.github.io/winnerscurse/)!
+- :package: Check out my R package [`winnerscurse`](https://amandaforde.github.io/winnerscurse/)!
 - 📫 Reach me on [![LinkedIn][1.2]][1] or a.forde21@nuigalway.ie. 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 
