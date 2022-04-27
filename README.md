@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!-- Icons -->
 
-[1.2]: https://raw.githubusercontent.com/amandaforde/amandaforde/master/linkedin_logo.png | width=20 (LinkedIn icon without padding)
+[1.2]: https://raw.githubusercontent.com/amandaforde/amandaforde/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
