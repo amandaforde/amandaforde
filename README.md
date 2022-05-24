@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love a good pint of Guinness after a hard week of work! <img src="https://raw.githubusercontent.com/amandaforde/amandaforde/master/guinness-pint.png" width="1.25%">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amandaforde/amandaforde/master/andre-braugher-statistics-is-so-beautiful.gif" width="70%">
+  <img src="https://raw.githubusercontent.com/amandaforde/amandaforde/master/andre-braugher-statistics-is-so-beautiful.gif" width="100%">
 </p>
 
 
