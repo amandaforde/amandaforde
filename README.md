@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm a second year Genomics Data Science PhD student, working in Galway, Ireland.  
+#### I'm a third year Genomics Data Science PhD student, working in Galway, Ireland.  
 
 - 🔭 I’m currently working on the development of novel statistical techniques that can be used in genetic association studies and Mendelian Randomization analyses. 
 - 📖 I'm most interested in Bayesian modelling and causal inference methodologies. 
