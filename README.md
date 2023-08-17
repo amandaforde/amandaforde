@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm a third year Genomics Data Science PhD student, working in Galway, Ireland.  
+#### I'm a final year Genomics Data Science PhD student, working in Galway, Ireland.  
 
 - 🔭 I’m currently working on the development of novel statistical techniques that can be used in genetic association studies and Mendelian Randomization analyses. 
 - 📖 I'm most interested in Bayesian modelling and causal inference methodologies. 
 - 🌱 I’m currently learning how to get better at shell scripting and using languages other than R! 
 - :package: Check out my R package: [`winnerscurse`](https://amandaforde.github.io/winnerscurse/)
-- 📫 Reach me on [![LinkedIn][1.2]][1] or a.forde21@nuigalway.ie. 
+- 📫 Reach me on [![LinkedIn][1.2]][1] or a.forde21@universityofgalway.ie. 
 - ⚡ Fun fact: I love enjoying some craft beer after a hard week of work - my favourite is Delirium Red! <img src="https://raw.githubusercontent.com/amandaforde/amandaforde/master/delirium.png" width="3%">
 
 <p align="center">
