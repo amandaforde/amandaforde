@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to get better at shell scripting and using languages other than R! 
 - :package: Check out my R package: [`winnerscurse`](https://amandaforde.github.io/winnerscurse/)
 - :pencil: Check out my recent publication in PLOS Genetics: [*'Review and further developments in statistical corrections for Winner's Curse in genetic association studies'*](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010546).
-- 📫 Reach me on [![LinkedIn][1.2]][1] or a.forde21@universityofgalway.ie. 
+- 📫 Reach me on [![LinkedIn][1.2]][1] or amanda.forde@universityofgalway.ie. 
 - ⚡ Fun fact: I love enjoying some craft beer after a hard week of work - my favourite is Delirium Red! <img src="https://raw.githubusercontent.com/amandaforde/amandaforde/master/delirium.png" width="3%">
 
 <p align="center">
